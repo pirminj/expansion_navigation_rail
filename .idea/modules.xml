@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/expansion_navigation_rail.iml" filepath="$PROJECT_DIR$/expansion_navigation_rail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/expansion_navigation_rail_android.iml" filepath="$PROJECT_DIR$/android/expansion_navigation_rail_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/expansion_navigation_rail_example_android.iml" filepath="$PROJECT_DIR$/example/android/expansion_navigation_rail_example_android.iml" />
+    </modules>
+  </component>
+</project>
