@@ -2,4 +2,4 @@
 
 Expandable NavigationRail for devices with mouse input
 
-[Example running in the browser](https://pirmin.xyz/expansion_navigation_rail/)
+[Example running in the browser](https://pirminj.github.io/expansion_navigation_rail/)
